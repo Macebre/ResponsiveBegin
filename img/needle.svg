@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'DOWNWARDS ARROW' (U+2193)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M147.7969 331.1719 Q119.1094 350.8594 106.3125 385.875 L99.4219 385.875 Q86.625 350.8594 57.9375 331.1719 L57.9375 321.0469 Q78.0469 327.7969 95.9062 343.8281 L95.9062 195.1875 L109.6875 195.1875 L109.6875 343.8281 Q127.5469 327.7969 147.7969 321.0469 L147.7969 331.1719 Z" stroke="none" />
+    </g>
+  </g>
+</svg>

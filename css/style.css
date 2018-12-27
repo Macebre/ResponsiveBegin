@@ -399,7 +399,7 @@ button {
 }
 
 .relation__icon:hover {
-    background: url(../img/myphoto.jpg)no-repeat center top;
+    background: url(../img/myphoto.jpg)no-repeat left bottom;
     object-fit: cover;
 }
 

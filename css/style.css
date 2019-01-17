@@ -530,6 +530,7 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100%;
 }
 
 .works__wrap img {
@@ -886,4 +887,46 @@ button {
     .container {
         width: 300px;
     }
+ }
+
+ @media screen and (max-width: 601px)  {
+    
+    .header__title span, .header__title {
+        font-size: 46px;
+        margin: 0 auto;
+        line-height: 60px;
+    }
+
+ }
+
+ @media screen and (max-width: 543px)  {
+
+    .header__title span, .header__title {
+        font-size: 41px;
+        line-height: 50px;
+    }
+
+    .header__text {
+        margin: 57px auto;
+    }
+
+ }
+
+ @media screen and (max-width: 450px)  {
+
+    .header__title span, .header__title {
+        font-size: 37px;
+        line-height: 47px;
+    }
+
+ }
+
+
+  @media screen and (max-width: 410px) {
+    
+    .header__title span, .header__title {
+        font-size: 30px;
+        line-height: 47px;
+    }
+
  }

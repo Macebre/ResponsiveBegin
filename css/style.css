@@ -139,7 +139,7 @@ button {
 /*--------------------------- start header --------------------------*/
 
 .header {
-    background: #f0f7f7 url(../img/bg.jpg) no-repeat center top / cover;
+    background: #f0f7f7 url(../img/bg1.jpg) no-repeat center top / cover;
 }
 
 .header__wrapper {
@@ -211,6 +211,15 @@ button {
     color: #fdeca5;
     opacity: .7;
     transform: scale3d(1.1, 1.2, 2.7);
+}
+
+.header__title span {
+    background: linear-gradient(45deg, rgba(120,175,0, .7), #0D61BC 66%, #8AA9D6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #0B2349;
+    font-family: 'Natasha', Roboto, sans-serif;
+    font-weight: 900;
 }
 
 .header__text {
